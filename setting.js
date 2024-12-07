@@ -65,7 +65,7 @@ const mess = {
    on: "*Active*", 
    off: "*Not Active*",
    query: {
-       text: "*Show Me Text*"
+       text: "*Show Me Text*",
        link: "*Where is the Link*",
    },
    error: {
