@@ -1,15 +1,5 @@
 /*
-       𝐑𝐄𝐒𝐌𝐈 𝐃𝐀𝐑𝐈 𝘿𝙖𝙣𝙯𝙯𝙓𝘿 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥
-
-  𝐋𝐀𝐑𝐀𝐍𝐆𝐀𝐍
- 
-- 𝐃𝐈 𝐋𝐀𝐑𝐀𝐍𝐆 𝐌𝐄𝐌𝐏𝐄𝐑𝐉𝐔𝐀𝐋 𝐒𝐂 𝐈𝐍𝐈
-- 𝐃𝐈 𝐋𝐀𝐑𝐀𝐍𝐆 𝐌𝐄𝐌𝐏𝐄𝐑𝐁𝐀𝐆𝐈 𝐒𝐂 𝐈𝐍𝐈
-
-𝐉𝐈𝐊𝐀 𝐌𝐄𝐋𝐀𝐍𝐆𝐆𝐀𝐑 𝐋𝐀𝐑𝐀𝐍𝐆𝐀𝐍 𝐘𝐀𝐍𝐆 𝐃𝐈 𝐁𝐄𝐑𝐈𝐊𝐀𝐍 𝐃𝐑𝐀𝐘, 𝐘𝐀𝐏𝐈𝐓 𝐒𝐄 𝐔𝐌𝐔𝐑 𝐇𝐈𝐃𝐔𝐏 + 𝟕 𝐓𝐔𝐑𝐔𝐍𝐀𝐍
-
-𝐉𝐀𝐍𝐆𝐀𝐍 𝐋𝐔𝐏𝐀 𝐒𝐔𝐏𝐏𝐎𝐑𝐓
-
+      Hassan
 *///========
 
 const fs = require('fs')
@@ -69,25 +59,25 @@ global.autojpmm = `JOIN SINI BANG
 LINK LU :`// TEXT JPM LU
 
 const mess = {
-   wait: "Bentar ya bre..",
-   success: "Berhasil, bang✔",
-   save: "𝕊𝕌𝕂𝕊𝔼𝕊 𝕊𝔸𝕍𝔼 ℕ𝕆𝕄𝔼ℝ 𝕆𝕋𝕆𝕄𝔸𝕋𝕀𝕊",
-   on: "Sudah Aktif", 
-   off: "Sudah Off",
+   wait: "*Wait..*",
+   success: "*Success* ✔",
+   save: "*Success Hassan*",
+   on: "*Active*", 
+   off: "*Not Active*",
    query: {
-       text: "Teks Nya Mana Kak?",
-       link: "Link Nya Mana Kak?",
+       text: "*Show Me Text*"
+       link: "*Where is the Link*",
    },
    error: {
-       fitur: "Mohon Maaf Kak Fitur Eror Silahkan Chat Developer Bot Agar Bisa Segera Diperbaiki",
+       fitur: "*Ask Hassan*", 
    },
    only: {
-       group: "Fitur Nya Cuman Bisa Di Dalem Grup Yah Bang",
-       private: "Di Chat Pribadi Bang Thomz Biar Bisa Di Pake",
-       owner: "Ga Usah Pake Fitur Ini Asu Lu Bukan Bang Dray",
-       admin: "Ga Usah Pake Fitur Ini Asu Lu Bukan Admin",
-       badmin: "Maaf Kak Kaya Nya Kakak Tidak Bisa Menggunakan Fitur Ini Di Karenakan Bot Bukan Admin Group",
-       premium: "Only Premium and murbug",
+       group: "*Only For Groups*",
+       private: "*Oly For Private Chats*",
+       owner: "*Only For Hassan*",
+       admin: "*Only For Hassan*",
+       badmin: "*Only For Hassan*",
+       premium: "*Only For Hassan*",
    }
 }
 
