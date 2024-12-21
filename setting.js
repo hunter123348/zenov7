@@ -1,5 +1,5 @@
 /*
-      Hassan
+      HUNTER
 *///========
 
 const fs = require('fs')
@@ -25,10 +25,10 @@ const Styles = (text, style = 1) => {
   return output.join('');
 };
 
-global.namaowner = "𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
-global.owner = "923107612528"
-global.namabot = "𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
-global.botname = "𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
+global.namaowner = "HUNTER HACK3R"
+global.owner = "3197010587051"
+global.namabot = "HUNTER"
+global.botname = "HUNTER"
 global.simbol = "⌑"
 global.autoJoin = false
 global.domain = "-"
@@ -39,14 +39,14 @@ global.location = '1' // id location
 global.dray = fs.readFileSync("./database/menu.mp4")
 global.codeInvite = "FwtMxovJqW3Jj55x524hjT"
 global.sessionName = 'drayyy' //Gausah Juga
-global.save = "𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
+global.save = "HUNTER"
 global.keyopenai = `sk-proj-EXdCaNbBfwrOJaqCjcTDT3BlbkFJyFvdbMAMopdT2vaEhuZj`
 global.tekspushkon = ""
 global.tekspushkonv2 = ""
 global.packname = ""
-global.author = "Sticker By 𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
+global.author = "Sticker By HUNTER"
 
-global.namastore = "𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
+global.namastore = "HUNTER"
 global.dana = "088803536269" // NOMER DANA KAMU
 global.gopay = "" // NOMER GOPAY KAMU
 global.ovo = "" // NOMER OVO KAMU
@@ -74,10 +74,10 @@ const mess = {
    only: {
        group: "*Only For Groups*",
        private: "*Oly For Private Chats*",
-       owner: "*Only For Hassan*",
-       admin: "*Only For Hassan*",
-       badmin: "*Only For Hassan*",
-       premium: "*Only For Hassan*",
+       owner: "*Only For HUNTER*",
+       admin: "*Only For HUNTER*",
+       badmin: "*Only For HUNTER*",
+       premium: "*Only For HUNTER*",
    }
 }
 
